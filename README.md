@@ -1,6 +1,6 @@
 <h1 align="center"> Gerador de QR Code</h1>
 
-<p align="center">Devido aos clientes de uma rede varejista terem certas dificuldades para efetuar o pagamento via pix,foi necessario criar uma aplicação que facilitace a interação do clinte com as chaves pix, tornando mais facil e auto explicativo a forma de efetuar o pagamento.</p>
+<p align="center">Devido aos clientes de uma rede varejista terem certas dificuldades para efetuar o pagamento via pix,foi necessario criar uma aplicação que facilitace a interação do cliente com as chaves pix, tornando mais facil e auto explicativo a forma de efetuar o pagamento.</p>
 
 
 ## Esse projeto é de uso real, feito com o intuito de diminuir a dificulade de pagamento.
